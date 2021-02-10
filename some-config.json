@@ -1,5 +1,6 @@
   {
     "latestVersions": {
-      "some-version": "v0.0.1",
+      "some-version": "v0.0.2",
+      "some-other-version": "v0.0.1",
     }
   }
